@@ -1,3 +1,5 @@
+// Modificado desde la rama main
+
 // ============================================
 // JavaScript Identifier Rules - IQ
 // ============================================
@@ -5,7 +7,6 @@
 let validName = "starts with letter";
 let _private = "starts with underscore";
 let $jquery = "starts with dollar sign";
-
 
 let item1 = "letter then digit";
 let _temp2 = "underscore then digit";
